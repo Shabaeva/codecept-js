@@ -1,3 +1,3 @@
 # Codecept-js-test
 
-Testing codecept for learning purposes
+Testing codecept for learning purposes.
